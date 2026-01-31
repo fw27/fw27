@@ -139,6 +139,16 @@ Managed IT infrastructure and developed internal tools.
 
 ---
 
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-terminal-readme.nexflare.com.br/api/stats/fw27?theme=githubdark&customstack=true&stacks=csharp,mysql,react,java,nodejs,typescript,tailwindcss,git,docker,php" />
+
+</div>
+
+---
 ## 📬 Let's Connect
 
 <div align="center">
