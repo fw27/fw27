@@ -143,7 +143,7 @@ Managed IT infrastructure and developed internal tools.
 
 <div align="center">
 
-<img src="https://github-terminal-readme.nexflare.com.br/api/stats/fw27?theme=githubdark&customstack=true&stacks=csharp,mysql,react,java,nodejs,typescript,tailwindcss,git,docker,php" />
+<img src="https://github-terminal-readme.nexflare.com.br/api/stats/fw27?theme=githubdark&customstack=true&stacks=csharp,mysql,nextjs,react,java,nodejs,typescript,tailwindcss,git,docker,php" />
 
 </div>
 
